@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - personaje
+  - suelo
+  - escalera
+  - moneda
+  - cofre
+  - box_moneda
+  - resorte
+  - puerta_fin
+  - puas
+  - llave
+  - muroromper
+  - enemigo1
+  - rebote
+  - explosion
+  - suelo_mov
+  - fragil
+  - manos
+  - act_puerta
+  - bandera_fin
+  - puerta
+  - fruta
+  - cajaempuja
+  - cadena
+  - puerta_fin2
+  - bala
+  - generadormoneda
+  - tronco
+  - vida
+  - transporte
+  - montania
+  - torre
+  - generadorenemigo
+  - choque
+  - espadaEne
+  - mensaje_caja
+  - pos_traslate
+  - pared_rompe
+  - tubo
+  - coger_espada
+  - espada_personaje
+  - coger_bala
+  - quita_puntos
+  - bola_tierra
+  - puerta_fin3
+  - piedra
+  - fondo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemigos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
